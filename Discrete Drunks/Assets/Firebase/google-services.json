@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "897743229676",
+    "firebase_url": "https://discrete-6eb08.firebaseio.com",
+    "project_id": "discrete-6eb08",
+    "storage_bucket": "discrete-6eb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897743229676:android:0fecdd9eb441ada0",
+        "android_client_info": {
+          "package_name": "classof19.discrete.drunks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897743229676-9hhm79lmot9kkp4vhqj1rht69pjduuik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3cnXM-fGY2teA-_86tCNuD71_YRLDzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
